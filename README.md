@@ -1,4 +1,5 @@
-
+# OPEN SOURCE
+> script otomatis open source ketika sudah login
 
 ```python
 pkg update && pkg upgrade
